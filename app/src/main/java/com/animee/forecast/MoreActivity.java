@@ -42,7 +42,7 @@ public class MoreActivity extends AppCompatActivity implements View.OnClickListe
         backIv.setOnClickListener(this);
         pref = getSharedPreferences("bg_pref", MODE_PRIVATE);
         String versionName = getVersionName();
-        versionTv.setText("当前版本:    永不更新的v"+versionName);
+        versionTv.setText("当前版本:v"+versionName);
         setRGListener();
     }
 
