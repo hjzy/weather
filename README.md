@@ -1,2 +1,10 @@
-# weather
-a simple weather app
+# 天气预报apk
+- Android
+- 使用了百度地图的天气api
+- 手动添加城市
+- 使用bing每日壁纸api用以更换壁纸
+- 辣鸡百度突然把天气api停用了
+- 换成其他api需要改挺多地方
+- 告辞
+- 以上
+
